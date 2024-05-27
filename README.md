@@ -1,3 +1,1 @@
-# notification
-
-A new Flutter project.
+# Push notification using https://onesignal.com/
